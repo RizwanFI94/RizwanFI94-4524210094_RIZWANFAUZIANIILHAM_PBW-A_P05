@@ -158,5 +158,5 @@ Konfigurasi tampilan Home Kegiatan per page dengan default nya 6 (Bisa diubah se
 <img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/RizwanFI94-4524210094_RIZWANFAUZIANIILHAM_PBW-A_P05/blob/5d4eaca66d4b532e7d4532940a4777902619b651/img/WhatsApp%20Image%202026-10-13%20at%2011.14.03%20(2).jpeg" />
 
 <p align="center">
-Made with ❤️ for SMP Mentari Ceria
+Made with Rizwan for SMP Mentari Ceria
 </p>
