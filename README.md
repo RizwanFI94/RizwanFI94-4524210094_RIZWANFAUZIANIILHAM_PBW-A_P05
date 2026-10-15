@@ -126,36 +126,36 @@ Website SMP Mentari Ceria adalah aplikasi web sederhana yang dibangun dengan Lar
 ## 📸 Hasil Screenshot Tampilan Website SMP Mentari
 
 ### Halaman Home
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a64d64a0-c13f-4f85-b745-ca34a580c4bc" />
+<img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/RizwanFI94-4524210094_RIZWANFAUZIANIILHAM_PBW-A_P05/blob/5d4eaca66d4b532e7d4532940a4777902619b651/img/WhatsApp%20Image%202026-10-13%20at%2011.14.05%20(2).jpeg" />
 
 ### Halaman Buku Tamu
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc71c127-20ae-4606-9063-73d93efc70eb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/RizwanFI94-4524210094_RIZWANFAUZIANIILHAM_PBW-A_P05/blob/5d4eaca66d4b532e7d4532940a4777902619b651/img/WhatsApp%20Image%202026-10-13%20at%2011.14.05%20(4).jpeg" />
 
 ### Halaman Register
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/425f065c-c92d-47e8-95b2-c27041a9b905" />
+<img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/RizwanFI94-4524210094_RIZWANFAUZIANIILHAM_PBW-A_P05/blob/5d4eaca66d4b532e7d4532940a4777902619b651/img/WhatsApp%20Image%202026-10-13%20at%2011.14.04%20(2).jpeg" />
 
 ### Halaman Login
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/216e71f2-a8bc-46f5-9af4-9f48c943a1fb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/RizwanFI94-4524210094_RIZWANFAUZIANIILHAM_PBW-A_P05/blob/5d4eaca66d4b532e7d4532940a4777902619b651/img/WhatsApp%20Image%202026-10-13%20at%2011.14.04%20(1).jpeg" />
 
 ### Halaman Dashboard
 
-Dashboard di akses ketika sudah login dan bisa mengatur atau pusat kendali dari website SMP Mentari
+Dashboard di akses ketika sudah login dan bisa mengatur profile dan pusat kendali dari website SMP Mentari
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7cc61dc-9829-4b7c-b6fe-8f0ca5219578" />
+<img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/RizwanFI94-4524210094_RIZWANFAUZIANIILHAM_PBW-A_P05/blob/5d4eaca66d4b532e7d4532940a4777902619b651/img/WhatsApp%20Image%202026-10-13%20at%2011.14.03.jpeg" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5ad41b2-4b7e-4a5f-84fd-ee30bff50e25" />
+<img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/RizwanFI94-4524210094_RIZWANFAUZIANIILHAM_PBW-A_P05/blob/5d4eaca66d4b532e7d4532940a4777902619b651/img/WhatsApp%20Image%202026-10-13%20at%2011.14.04.jpeg" />
 
 Kendali atau mengelola kegiatan SMP Mentari
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cb3d83f-d7ef-435a-8eca-88d56d8b293a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/RizwanFI94-4524210094_RIZWANFAUZIANIILHAM_PBW-A_P05/blob/5d4eaca66d4b532e7d4532940a4777902619b651/img/WhatsApp%20Image%202026-10-13%20at%2011.14.03%20(1).jpeg" />
 
 Kelola Buku Tamu
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28af5ada-efb2-4f30-8b79-9ca7e41ea285" />
+<img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/RizwanFI94-4524210094_RIZWANFAUZIANIILHAM_PBW-A_P05/blob/5d4eaca66d4b532e7d4532940a4777902619b651/img/WhatsApp%20Image%202026-10-13%20at%2011.14.05%20(4).jpeg" />
 
 Konfigurasi tampilan Home Kegiatan per page dengan default nya 6 (Bisa diubah sesuai keinginan)
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c90e5fe0-69c9-4137-8112-a0101aef31d7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/RizwanFI94/RizwanFI94-4524210094_RIZWANFAUZIANIILHAM_PBW-A_P05/blob/5d4eaca66d4b532e7d4532940a4777902619b651/img/WhatsApp%20Image%202026-10-13%20at%2011.14.03%20(2).jpeg" />
 
 <p align="center">
 Made with ❤️ for SMP Mentari Ceria
